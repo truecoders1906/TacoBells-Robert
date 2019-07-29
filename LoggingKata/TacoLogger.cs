@@ -28,5 +28,6 @@ namespace LoggingKata
         {
             Console.WriteLine($"Debug: {log}");
         }
+
     }
 }
